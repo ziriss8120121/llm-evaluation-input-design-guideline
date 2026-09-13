@@ -48,7 +48,7 @@ LLM出力評価に使用する **Input Datasetを網羅的かつ再現可能に�
 | 代表Input一覧 | 評価に採用する具体的なInput |
 | Evaluation Input Dataset | 実行・評価に利用できる形式のデータセット |
 
-設計時は [Input設計テンプレート](templates/input-design-template.md) を利用できます。
+案件ごとの設計時は、[評価用Input設計仕様書テンプレート](templates/input-design-template.md) を利用できます。Markdownの見出しと表だけで構成しているため、Confluenceへ移して利用できます。
 
 ## Output評価との関係
 
