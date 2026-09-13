@@ -205,7 +205,7 @@ Inputパターン一覧。
 
 ### 完了条件
 
-- すべての代表Inputを分類軸・パターン・Combinationへ追跡できる
+- すべての代表Inputを分類軸・パターン・組み合わせへ追跡できる
 - 各Inputの選定理由を説明できる
 - 不要な重複が整理されている
 - 評価目的とリスクに対して十分かをレビューしている
@@ -225,7 +225,7 @@ Inputパターン一覧。
 - 一意なInput ID
 - ユースケースID
 - Input本体
-- 対応する分類軸、パターン、Combination
+- 対応する分類軸、パターン、組み合わせ
 - 選定理由
 - 期待する振る舞い
 - 優先度
@@ -253,7 +253,7 @@ LLMへ実際に渡すInputと、評価・管理用のメタデータは区別し
       "combination_id": "C-001",
       "selection_reason": "",
       "expected_behavior": "",
-      "priority": "High",
+      "priority": "高",
       "source": ""
     }
   ]
